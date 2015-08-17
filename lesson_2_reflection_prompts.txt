@@ -26,5 +26,8 @@ Way too obvious...
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+One branch merged into the other one, the changes have been combined.
+Easier to see and understand the structure of the commits and branches.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
