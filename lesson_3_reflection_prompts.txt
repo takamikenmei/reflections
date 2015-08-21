@@ -30,4 +30,8 @@ can update the files there. Of course Github will be easier to use!
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+For example, when I want to add a new feature to the code, but don't
+know if this feature gonna work, or if it's gonna stay alive in the future.
+Separate branch: won't cause trouble to the master, so master will always keep working properly;
+Directly on master: won't bother to merge the branches together in 
+the future.
