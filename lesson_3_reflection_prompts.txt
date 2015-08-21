@@ -17,7 +17,9 @@ Forks are on github only; clones could be from github to local, or local only; b
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+In case other people would update the remote without prior notice, you
+can compare your local copy and the remote to find out where and how
+the changes happened.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
